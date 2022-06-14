@@ -109,7 +109,7 @@ const question = [
     {  question: "Capital de Uruguy",
     answers:[
         {text:"Bogota" , correct: false},
-        {text:"Montevideo" , correct: true}
+        {text:"Montevideo" , correct: true},
         {text:"Bogota" , correct: false},
         {text:"Madrid" , correct: false}
     ]},
