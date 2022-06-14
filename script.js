@@ -106,18 +106,18 @@ const question = [
         {text:"72" , correct: false},
         {text:"70" , correct: true}
     ]},
-    {  question: "Capital de Uruguy",
+    {  question: "Capital de Uruguay",
     answers:[
         {text:"Bogota" , correct: false},
         {text:"Montevideo" , correct: true},
         {text:"Bogota" , correct: false},
         {text:"Madrid" , correct: false}
     ]},
-    {  question: "quiero un clima agradable o ... ",
+    {  question: "Quiero un clima agradable o ... ",
     answers:[
         {text:"muy caliente" , correct: false},
         {text:"caliente" , correct: false},
         {text:"frialento" , correct: false},
-        {text:"estable" , correct: true}
+        {text:"Calido" , correct: true}
     ]}
 ]
