@@ -108,7 +108,7 @@ const question = [
     ]},
     {  question: "Capital de Uruguay",
     answers:[
-        {text:"Bogota" , correct: false},
+        {text:"Buenos Aires" , correct: false},
         {text:"Montevideo" , correct: true},
         {text:"Bogota" , correct: false},
         {text:"Madrid" , correct: false}
