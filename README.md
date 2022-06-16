@@ -1,3 +1,3 @@
 # QuizzApp
 
-Para ejecutar el programa  abrir el Root de index.html
+Para ejecutar la carpeta toot de index.html
