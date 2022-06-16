@@ -1,3 +1,3 @@
 # QuizzApp
 
-Para ejecutar la carpeta toot de index.html
+Para ejecutar en la carpeta root el index.html
